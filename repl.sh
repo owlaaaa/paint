@@ -1,4 +1,4 @@
-##### Script for repl.it since it doesn't use the latest version of node.js ###
+##### Script for repl.it since it doesn't use the lataest version of node.js ###
 
 NVM_HOME="$PWD/nvm" # Changing the installation directory
 echo " NVM_HOME='$NVM_HOME'
